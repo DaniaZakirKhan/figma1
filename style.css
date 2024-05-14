@@ -1,0 +1,526 @@
+body{
+  background-color:whitesmoke;
+}
+
+.navbar{
+ visibility: hidden;
+}
+.link1{
+text-decoration: none;
+list-style: none;
+color: #000;
+}
+.link2{
+    text-decoration: none;
+list-style: none;
+color: #000;
+    }
+    .link3{
+ text-decoration: none;
+ list-style: none;
+ color: #000;
+    }
+    .list{
+        list-style: none;
+        display:flex;
+        margin-left: 650px;
+        margin-top: -50px;
+        gap: 45px;
+    
+    }
+    .btn{
+       background-color: seagreen;
+       color: white;
+       margin-top: -5px;
+
+    }
+    .lorem{
+        color: gray;
+        font-size: 25px;
+    }
+    .download{
+        margin-top: 150px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 45px;
+        word-spacing: 20px;
+    }
+    .app{
+        margin-left: 130px;
+    }
+    .car{
+        margin-left: 750px;
+        margin-top: -350px;
+    }
+    .btn1{
+        background-color: #000;
+        color: white;
+        border-radius: 10px;
+        padding: 5px 5px 5px 5px;
+        width: 150px;
+        
+    }
+    .button{
+        margin-left: 120px;
+        margin-top: -50px;
+    }
+
+    .grn{
+        height: 180px;
+        width: 1200px;
+        background-color: seagreen;
+        margin-left: 50px;
+        margin-top: 150px;
+        border-radius: 20px;
+    }
+    .h2{
+        color:black;
+        margin-left: 100px;
+       color: white;
+    }
+    .input{
+        padding: 15px 15px 10px 10px;
+        width: 500px;
+        margin-left: 480px;
+        margin-top: -950px;
+        height: 50px;
+    }
+    .drive{
+        padding: 10px 10px;
+        background-color:black ;
+        color: white;
+        border-radius: 10px;
+    }
+  .tere{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+  }
+  .work{
+    margin-left: 450px;
+    margin-top: 150px;
+  }
+  .and{
+    margin-top: 20px;
+    color: gray;
+    margin-left: 450px;
+    font-size: 15px;
+  }
+  .circle{
+    background-color: green;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 150px;
+  }
+  .one{
+    margin-top: -750px;
+    margin-left: 100px;
+  }
+  .two{
+    margin-left: 550px;
+    margin-top: -750px;
+  }
+  .three{
+    margin-top: -180px;
+    margin-left: 150px;
+  }
+  .four{
+    margin-left: 550px;
+    margin-top: -180px;
+  }
+
+.dot{
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.span{
+    color: seagreen;
+   
+    
+}
+
+.benefits{
+    margin-left: 550px;
+    margin-top: 150px;
+   
+   
+}
+.unit{
+    color: seagreen;
+    font-size: 85px;
+    margin-left: 60px;
+   
+}
+.flex{
+    width: 1000px;
+    background-color: white;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: -150px;
+}
+
+.working{
+    margin-left: 190px;
+    margin-top: -80px;
+    font-size: 37px;
+}
+.when{
+    margin-top: 20px;
+    margin-left: 120px;
+    color: gray;
+    font-size: 18px;
+}
+.time{
+    margin-left: 750px;
+    margin-top: -220px;
+    width: 200px;
+    background-color: whitesmoke;
+
+} 
+
+.flex1{
+    width: 1000px;
+    background-color: white;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 180px;
+    margin-right: -150px;
+    margin-top: -810px;
+    
+}
+.twice{
+    color: seagreen;
+    font-size: 85px;
+    margin-left: 550px;
+}
+    .working1{
+        margin-left: 680px;
+        margin-top: -80px;
+        font-size: 37px;
+    }
+    .when1{
+        margin-left: 550px;
+        margin-top: 50px;
+        font-size: 18px;
+    }
+    .mob{
+        z-index: 1;
+        margin-left: 360px;
+        margin-top: 290px;
+        background-color: gray;
+        color: gray;
+       
+       
+    }
+    .time1{
+        margin-top: -190px;
+        margin-left: 80px;
+        width: 200px;
+        height: 250px;
+    }
+    .flex2{
+        width: 1000px;
+        background-color:white;
+        height: 250px;
+        margin-top: 160px;
+        margin-left: 180px;
+        margin-right: -150px;
+        
+        
+        
+    }
+    .unit3{
+        color: seagreen;
+        font-size: 85px;
+        margin-left: 60px;
+       
+    }
+
+    
+    .working3{
+        margin-left: 190px;
+        margin-top: -80px;
+        font-size: 37px;
+    }
+    .when3{
+        margin-top: 20px;
+        margin-left: 120px;
+        color: gray;
+        font-size: 18px;
+    }
+    .time3{
+        margin-left: 670px;
+        margin-top: -220px;
+        width: 300px;
+        background-color: whitesmoke;
+    
+    } 
+    .foot{
+        height: 400px;
+        width: 1260px;
+        background-color: white;
+        margin-top: 230px;
+    }
+    .dark{
+         margin-top: 120px;
+         margin-left:70px;
+    }
+    .be{
+        margin-left: 60px;
+        margin-top: 80px;
+    }
+    .be1{
+        margin-left: 60px;
+        margin-top: 80px;
+    }
+.download3{
+
+        background-color: #000;
+        color: white;
+        padding: 5px 5px 5px 5px;
+        width: 150px;
+        margin-left: 80px;
+} 
+.btn1{
+    background-color: #000;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    width: 150px
+}
+.down{
+    margin-left: 650px;
+    margin-top: -70px;
+}
+.download4{
+
+    background-color: #000;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    width: 150px;
+    
+
+} 
+.all{
+    color: green;
+    margin-top: 70px;
+    margin-left: 450px;
+}
+
+
+
+@media only screen and (max-width:900px){
+    .navbar{
+   visibility: visible;
+    }
+    .car{
+        margin-left: -20px;
+        margin-top: -1400px;
+        margin-left: 130px;
+        width: 500px;
+        border: white 1px solid;
+    }
+
+    .app{
+        margin-top: 650px;
+    }
+    .button{
+        margin-top: 50px;
+    }
+    .grn{
+        height: 400px;
+        width: 650px;
+    }
+    .input{
+       margin-top: -50px;
+        margin-left: -10px;
+        width: 400px;
+        margin-left: 50px;
+    }
+    .drive{
+        margin-top: 150px;
+    }
+    .work{
+        margin-left: -50px;
+        margin-left:150px;
+    }
+    .and{
+        margin-left: -50px;
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .circle{
+        margin-left: -50px;
+        margin-left: 150px;
+        z-index: 1;
+    }
+    .flex{
+        margin-top: 1800px;
+        width: 700px;
+        height: 530px;
+    }
+    .time{
+        margin-left: -50px;
+       margin-top: -490px;
+        margin-left: 250px;
+        width: 250px;
+    }
+    .when{
+        margin-top: 310px;
+    }
+    .flex1{
+        margin-top: 150px;
+        margin-left: -190px;
+        height: 530px;
+        width: 700px;
+
+    }
+    .time1{
+        margin-top: 50px;
+        margin-top: -490px;
+        margin-left: 150px;
+        width: 250px;
+    }
+    .twice{
+        margin-left: -50px;
+        margin-left: 50px;
+    }
+    .working1{
+        margin-left: -50px;
+        margin-left: 190px;
+
+    }
+    .when1{
+        margin-top: 350px;
+        margin-left: -50px;
+        margin-left: 50px;
+    }
+    .flex2{
+        margin-top: 150px;
+        margin-left: -190px;
+        height: 530px;
+        width: 700px;
+    }
+    .time3{
+        margin-top: 80px;
+        margin-top: -690px;
+        margin-left: 150px;
+        width: 350px;
+    }
+    .working3{
+        margin-left: -50px;
+        margin-left: 190px;
+
+    }
+    .when3{
+        margin-top: 320px;
+        margin-left: -50px;
+        margin-left: 50px;
+    }
+    .mobile{
+        margin-left: 290px;
+    }
+    .mob{
+        margin-top: -5600px;
+        margin-left: -50px;
+        margin-left: 50p;
+        width: 250px;
+        height: 600px;
+    }
+    .dot{
+        margin-top: -1700px;
+        margin-left: -50px;
+        margin-left: 310px;
+        
+        
+        
+    }
+    .one{
+        margin-top: 290px;
+        margin-left: 270px;
+        
+        width: 400px;
+       
+    }
+
+    .two{
+        margin-top: -800px;
+       margin-left: 190px;
+       width: 400px;
+    }
+    .three{
+        margin-top: 350px;
+       margin-top: -50px;
+        margin-left: -299px;
+        width: 400px;
+
+    
+    }
+    .four{
+        margin-top: 900px;
+        margin-left: 90px;
+        width: 400px;
+        margin-left:-390px ;
+        
+    }
+    .benefits{
+        margin-left: -50px;
+        margin-left: 250px;
+       margin-top: -50px;
+        margin-top: 50px;
+    }
+    .dark{
+        margin-left: 450px;
+        margin-top: -300px;
+        
+      
+    }
+    .foot{
+        
+        margin-right: 150px;
+        margin-left: -10px;
+       height: 500px;
+        margin-left: 10px;
+    }
+    hr{
+        visibility: hidden;
+    }
+    .down{
+        margin-top: -230px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 550px;
+    }
+    .download3{
+        margin-right: 250px;
+        margin-left: -150px;
+        margin-top: -50px;
+      
+        
+    }
+    .download4{
+        margin-right: 150px;
+        margin-left: -150px;
+        margin-top: 20px;
+       
+       
+    }
+    .be{
+        margin-top: 230px;
+        margin-left: -150px;
+
+    }
+    .be1{
+        visibility: hidden;
+    }
+    .all{
+        margin-top: 190px;
+        margin-left: -50px;
+        margin-left: 350px;
+    }
+}
